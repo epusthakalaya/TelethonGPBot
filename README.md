@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/epusthakalaya_bots"><img src="https://telegra.ph/file/868595ce13f7ba76727a6.jpg" width="2500"></a></p> 
-<h1 align="center"><b>MICHEL Bot</b></h1>
+<h1 align="center"><b>MICHEL BOT</b></h1>
 <h4 align="center">A Group-Manager Bot made with telethon!</h4>
 
 ## Additional Information
