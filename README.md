@@ -1,5 +1,5 @@
-<p align="center"><a href="https://t.me/TgxBots"><img src="https://telegra.ph/file/6e50a22dcb7bf6a062b1c.jpg" width="2500"></a></p> 
-<h1 align="center"><b>Group-Manager Bot</b></h1>
+<p align="center"><a href="https://t.me/epusthakalaya_bots"><img src="https://telegra.ph/file/868595ce13f7ba76727a6.jpg" width="2500"></a></p> 
+<h1 align="center"><b>MICHEL Bot</b></h1>
 <h4 align="center">A Group-Manager Bot made with telethon!</h4>
 
 ## Additional Information
@@ -19,7 +19,7 @@ WELCOME_TEXT - The text msg which you want in your welcome msg.
 ```
 
 ## Our Telegram Support Chat
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Tgxsupportchat)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/epusthakalaya_bots)
 
 # Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TgxBotz/TelethonGPBot/blob/main)
@@ -29,4 +29,4 @@ WELCOME_TEXT - The text msg which you want in your welcome msg.
 
 ## Credits:
 • [Devsexpo](https://GitHub.com/Devsexpo)
-
+• [Tgx Bots Support Chat](https://t.me/TgxSupportChat)
