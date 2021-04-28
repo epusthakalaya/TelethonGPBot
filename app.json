@@ -1,7 +1,7 @@
 {
-  "name": "Group-Manager Bot",
+  "name": "MICHEL BOT",
   "description": "A simple group-manager bot made with Python [Telethon].",
-  "logo": "https://telegra.ph/file/ec1495d982c0544404970.jpg",
+  "logo": "https://telegra.ph/file/868595ce13f7ba76727a6.jpg",
   "keywords": [
     "telegram",
     "GPBot",
@@ -10,9 +10,7 @@
     "productivity",
     "Group-Manager"
   ],
-  "repository": "https://github.com/TgxBotz/TelethonGPBot",
-  "website": "https://github.com/TgxBotz/TelethonGPBot",
-  "success_url": "t.me/TgxBots",
+  "success_url": "t.me/epusthakalaya_bots",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
