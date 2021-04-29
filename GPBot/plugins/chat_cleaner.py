@@ -49,7 +49,7 @@ async def clean(event, perm):
     deleted = 0
 
     if "clean" not in input_str:
-      zombies = await event.respond("Searching For Zombies/Deleted Accounts...")
+      zombies = await event.respond(" 🔍 Searching For Zombies & Deleted Accounts...🔍")
       async for user in event.client.iter_participants(event.chat_id):
 
             if user.deleted:
@@ -60,7 +60,7 @@ async def clean(event, perm):
       await zombies.edit(stats)
       return
 
-    cleaning_zombies = await event.respond("Cleaning Zombies/Deleted Accounts...")
+    cleaning_zombies = await event.respond("Cleaning Zombies & Deleted Accounts...✅")
     del_u = 0
     del_a = 0
 
