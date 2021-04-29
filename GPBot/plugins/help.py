@@ -14,7 +14,7 @@ HELP_TEXT = """
 /start - To Start Me ;)
 /help - To Get Available Help Menu
 
-__Report Bugs At--->__ **@TgxSupportChat**
+__Report Bugs At--->__ **@epusthakalaya_bots**
 All cmd can be used with ! or ? or /.
 """.format(Config.BOT_US)
 
